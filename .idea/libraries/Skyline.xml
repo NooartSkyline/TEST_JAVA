@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Skyline">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Skyline_jar/Skyline.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
